@@ -11,19 +11,19 @@ In this article, let me highlight what we will cover.
  - Complex Numbers
 
 - Operators
- - Subtraction
- - Addition
- - Multiplication
- - Division
- - Integer Division
- - Exponents
- - The Modulus Operator
- - Arithmetic Expressions
+ -- Subtraction
+ -- Addition
+ -- Multiplication
+ -- Division
+ -- Integer Division
+ -- Exponents
+ -- The Modulus Operator
+ -- Arithmetic Expressions
 - Math Functions and Number Methods
- - Round Numbers With round()
- - Find the Absolute Value With abs()
- - Raise to a Power With pow()
- - Check if a Float Is Integral
+ -- Round Numbers With round()
+ -- Find the Absolute Value With abs()
+ -- Raise to a Power With pow()
+ -- Check if a Float Is Integral
 
  Let's jump right straight to it.
 
@@ -127,5 +127,11 @@ The ** operator can be used to increase a number to a power, also all exponents 
 ```
 ## The Modulus Operator
 
-## Arithmetic Expressio
+## Arithmetic Expressions
+
+- Math Functions and Number Methods
+ - Round Numbers With round()
+ - Find the Absolute Value With abs()
+ - Raise to a Power With pow()
+ - Check if a Float Is Integral
 
