@@ -6,24 +6,25 @@ To program well, you don't have to be an expert in math. In the real sense, most
 
 In this article, let me highlight what we will cover.
 - Integers and Floats
- - Integers 
- - Floating-Point Numbers
- - Complex Numbers
+	- Integers 
+	- Floating-Point Numbers
+	- Complex Numbers
 
 - Operators
- -- Subtraction
- -- Addition
- -- Multiplication
- -- Division
- -- Integer Division
- -- Exponents
- -- The Modulus Operator
- -- Arithmetic Expressions
+	- Subtraction
+	- Addition
+	- Multiplication
+	- Division
+	- Integer Division
+	- Exponents
+	- The Modulus Operator
+	- Arithmetic Expressions
+
 - Math Functions and Number Methods
- -- Round Numbers With round()
- -- Find the Absolute Value With abs()
- -- Raise to a Power With pow()
- -- Check if a Float Is Integral
+	- Round Numbers With round()
+	- Find the Absolute Value With abs()
+	- Raise to a Power With pow()
+	- Check if a Float Is Integral
 
  Let's jump right straight to it.
 
